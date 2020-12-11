@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "key" : "cytoplazma",
+      "legend" : "tekuté prostředí buňky"
+    },
+    {
+      "key" : "drážďany",
+      "legend" : "německé velkoměsto, cca 70 km od Ústí nad Labem"
+    },
+    {
+      "key" : "komenský",
+      "legend" : "učitel národů"
+    },
+    {
+      "key" : "beatle",
+      "legend" : "angl. 'brouk'"
+    },
+    {
+      "key" : "presley",
+      "legend" : "král rock'n'rollu"
+    },
+    {
+      "key" : "holzmann",
+      "legend" : "komik z Hospody u Nudle"
+    },
+    {
+      "key" : "volha",
+      "legend" : "řeka, na které ležel Stalingrad"
+    },
+    {
+      "key" : "dacia",
+      "legend" : "rumunská značka aut"
+    }
+  ]
+}
